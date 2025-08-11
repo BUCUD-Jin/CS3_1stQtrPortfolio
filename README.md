@@ -31,4 +31,9 @@ Jin Bucud
 =======
 5. Click on **Commit**, then on **Synch Changes** if it appears and a prompt will display **to fork**, click on it to enable saving on your github.com account.  
 6. Repeat numbers 4 to 6 whenever you make changes on this portfolio and saving it **(change commit message each time)**.
+<<<<<<< HEAD
 >>>>>>> 08f95f75e139d985c34e852271d27880821efc85
+=======
+
+Jin Bucud
+>>>>>>> 8c42b537e59e894dad08bf1c24c4f6253790132e
