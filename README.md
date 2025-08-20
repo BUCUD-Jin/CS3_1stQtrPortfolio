@@ -1,4 +1,4 @@
-# CS3_1stQtrPortfolio_Mendoza
+# CS3_1stQtrPortfolio_Aline Teresa Mendoza
 
 ![Portfolio](https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio.jpg)
 
@@ -24,7 +24,16 @@
    - git config --global user.name "github username" 
    - git config --global user.email "your email used in github"
 4. Press **Ctrl-Shift-G** to open source control. Type **"First Commit"** on the Message text box.
+<<<<<<< HEAD
+5. Click on **Commit**, then on **Synch Changes** if it appears and a prompt will display **to fork**, click on it to enabling saving on your github.com account.  
+6. Repeat numbers 4 to 6 whenever you make changes on this portfolio and saving it.
+Jin Bucud
+=======
 5. Click on **Commit**, then on **Synch Changes** if it appears and a prompt will display **to fork**, click on it to enable saving on your github.com account.  
 6. Repeat numbers 4 to 6 whenever you make changes on this portfolio and saving it **(change commit message each time)**.
+<<<<<<< HEAD
+>>>>>>> 08f95f75e139d985c34e852271d27880821efc85
+=======
 
 Jin Bucud
+>>>>>>> 8c42b537e59e894dad08bf1c24c4f6253790132e
