@@ -1,0 +1,39 @@
+<body>
+    <h2> Q1 3rd Graded Exercise submitted by Jin Bucud of Lithium </h2>
+    <p> Guess the number: **** </p>
+    <p> The number is from 1 to 100 </p>
+    <label> Enter your guess: 
+        <input id="guess">
+    </label>
+<br>
+    <button onclick = "checkIt()"> Check It </button>
+
+    <p> Result: </p>
+    <p id="result"> </p>
+
+    <script>
+        var dNumber = Math.floor(Math.random() * 100) + 1;
+
+        function checkIt() {
+            var num = Number(document.getElementById("guess").value);
+
+            var theresult;
+
+            if (num == dNumber) {
+                theresult = "Correct";
+            }
+
+            if (num < dNumber) {
+                theresult = "Higher";
+            }
+
+            if (num > dNumber) {
+                theresult = "Lower";
+            }
+            
+            document.getElementById("result").innerText = theresult;
+        }
+    </script>
+
+
+</body>
